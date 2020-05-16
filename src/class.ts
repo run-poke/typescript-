@@ -48,5 +48,7 @@ class Teacher extends Person{
 }
 
 const teacher = Teacher.getInstance();
+const teacher = Teacher.getInstance();
+const teacher2 = Teacher.getInstance();
 const teacher2 = Teacher.getInstance();
 console.log(teacher, teacher2);
